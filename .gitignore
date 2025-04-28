@@ -1,0 +1,43 @@
+# 二进制文件
+flutter_ssl_hook_finder
+flutter_ssl_hook_finder_*
+*.exe
+*.out
+*.so
+*.dylib
+
+# 日志文件
+*.log
+
+# 操作系统生成的文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Go特定的文件
+*.o
+*.a
+*.test
+*.prof
+/vendor/
+/Godeps/
+
+# IDE文件
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+
+# 构建目录
+/build/
+/dist/
+
+# 压缩文件
+*.zip
+*.tar.gz
+*.tgz 
